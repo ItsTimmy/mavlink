@@ -1,0 +1,23 @@
+# Hashes of file build rules.
+fb21733299d2befb61c28048f99d430b ASLUAV.xml-v1.0-stamp
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/ASLUAV.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/ardupilotmega.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/autoquad.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/common.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/matrixpilot.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/minimal.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/paparazzi.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/python_array_test.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/slugs.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/test.xml-v1.0
+2297f319a0ed7c6af61d5a5ae54a377f CMakeFiles/ualberta.xml-v1.0
+d29d9f9afd0f4fa33d1d71dd5da38af6 ardupilotmega.xml-v1.0-stamp
+10075ed82be933d8203fd32cbde8b719 autoquad.xml-v1.0-stamp
+270ceb1d7e0112d26789c1091ce068c9 common.xml-v1.0-stamp
+fa35ab7239adb51326889437235c3cde matrixpilot.xml-v1.0-stamp
+eb79e2583b7ab33b1f81f96576584fc7 minimal.xml-v1.0-stamp
+a5923756f3fd02dcb84544dfa323b166 paparazzi.xml-v1.0-stamp
+7c0c385cec485156f58ed0ea0391d41a python_array_test.xml-v1.0-stamp
+e316b077f677685b5c6a4b44478ecfda slugs.xml-v1.0-stamp
+0ca380c134c8bea6128e7d5db14e9e2d test.xml-v1.0-stamp
+409edd133e85f63d3edadf4bed72fce6 ualberta.xml-v1.0-stamp
