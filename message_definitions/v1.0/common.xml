@@ -5883,6 +5883,8 @@
       <field type="uint16_t" name="selected_version">Selected version</field>
       <!-- TODO: Add an enum for this bitmask -->
       <field type="uint64_t" name="service_flags" display="bitmask">Flags</field>
+      <field type="uint16_t" name="service_min_version">Minimum version, or 0 if not supported.</field>
+      <field type="uint16_t" name="service_max_version">Maximum version, or 0 if not supported.</field>
     </message>
     <!-- Rover specific messages -->
     <message id="9000" name="WHEEL_DISTANCE">
